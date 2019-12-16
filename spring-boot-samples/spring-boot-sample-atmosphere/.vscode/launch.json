@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SampleAtmosphereApplication",
+            "request": "launch",
+            "mainClass": "sample.atmosphere.SampleAtmosphereApplication",
+            "projectName": "spring-boot-sample-atmosphere"
+        }
+    ]
+}
